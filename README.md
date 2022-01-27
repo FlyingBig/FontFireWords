@@ -12,3 +12,4 @@ param2 type => object
     particles: 50, // 爆炸散点数量
   }
 ```
+在线demo: https://codesandbox.io/s/practical-bell-163zz?file=/index.html
